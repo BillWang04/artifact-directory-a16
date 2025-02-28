@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Neural Collapse on Graph Transformers
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+ Building upon recent theoretical and empirical investigations on neural collapse in Graph Neural Networks (GNNs), we extend this analysis to a wider variety of graph learning models, particularly graph transformers. While prior work established that traditional GNNS exhibit partial collapse behavior dependent on the input graph's structure, we examine whether more expressive architectures with attention mechanisms and enhanced message passing capabilities demonstrate different collapse characteristics. Using a systematic analysis of stochastic block model graphs and Cora, we show that graph transformers and \hfill, demonstrate \hfill . 
